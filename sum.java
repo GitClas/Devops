@@ -11,6 +11,7 @@ a=a+b+c;
 System.out.println("The sum of three values are "+c);
 }
 }
+<<<<<<< HEAD
 
 
 
@@ -24,3 +25,5 @@ System.out.println("The sum of three values are "+c);
 
 //this another modification
 
+=======
+>>>>>>> parent of 7d7ecb6... modifications
